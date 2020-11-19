@@ -1,0 +1,12 @@
+.parent {
+    display: flex;
+    justify-content: center;
+}
+
+.parent > div {
+    padding: 10px;
+}
+
+body {
+    padding-top: 20px;
+}
